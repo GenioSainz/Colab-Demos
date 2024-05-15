@@ -1,13 +1,15 @@
 
 # Demos
 
-<h3><i> Mandelbrot Set / Logistic Map</i><h3>
+
+
+### [Mandelbrot Set / Logistic Map](./scripts/MandelbrotStability.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/GenioSainz/Colab-Demos/blob/main/scripts/MandelbrotStability.ipynb)
+
 <hr>
 
-<h3><i> Mandelbrot Set 3D</i><h3>
-
+### [Mandelbrot Set 3D](./scripts/Mandelbrot_Interactive.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/GenioSainz/Colab-Demos/blob/main/scripts/Mandelbrot_Interactive.ipynb)
 <hr>
 
@@ -38,3 +40,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/GenioSainz/Colab-Demos/blob/main/scripts/ScreensRatios.ipynb)
 <hr>
 
+
+<img src="./scripts/imgs/bezier_distances.png" height="300">
