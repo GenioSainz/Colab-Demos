@@ -41,4 +41,3 @@
 <hr>
 
 
-<img src="./scripts/imgs/bezier_distances.png" height="300">
